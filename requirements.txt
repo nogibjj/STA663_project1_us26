@@ -20,3 +20,5 @@ kaleido
 torchvision
 transformers
 accelerate
+ffmpeg
+ffmpeg-python
